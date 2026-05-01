@@ -1,0 +1,99 @@
+S1 Hold the position · S2 Balanced walk · S3 Decode semaphore · S4 Remember picture · S5 Flip the cup
+
+S1 Bottle flip · S2 Crawl · S3 Build pyramid of cups · S4 Decode morse · S5 Bowling
+
+S1 Small parcours · S2 Balance bottle & walk · S3 Guess object in box · S4 Puzzle · S5 Briquet equation
+
+S1 Tie & untie · S3 Decode semaphore · S4 Remember picture · S5 Decode samurai · S6 Fill bucket
+
+S1 Tie & untie · S2 Balanced walk · S4 Puzzle · S5 Flip the cup · S6 Chasse au trésor
+
+S2 Crawl · S3 Build pyramid of cups · S4 Decode morse · S5 Decode samurai · S6 Yoga hold
+
+S1 Hold the position · S3 Guess object in box · S4 Puzzle · S5 Bowling · S6 Fill bucket
+
+S1 Bottle flip · S2 Balance bottle & walk · S3 Decode semaphore · S5 Briquet equation · S6 Yoga hold
+
+S1 Small parcours · S2 Balanced walk · S3 Build pyramid of cups · S4 Remember picture · S6 Chasse au trésor
+
+S1 Tie & untie · S2 Crawl · S4 Decode morse · S5 Flip the cup · S6 Fill bucket
+
+S1 Tie & untie · S3 Guess object in box · S4 Remember picture · S5 Decode samurai · S6 Yoga hold
+
+S2 Balance bottle & walk · S3 Decode semaphore · S4 Puzzle · S5 Bowling · S6 Chasse au trésor
+
+S1 Hold the position · S2 Balanced walk · S3 Build pyramid of cups · S5 Briquet equation · S6 Fill bucket
+
+S1 Bottle flip · S3 Guess object in box · S4 Decode morse · S5 Flip the cup · S6 Yoga hold
+
+S1 Small parcours · S2 Crawl · S3 Decode semaphore · S4 Remember picture · S5 Decode samurai
+
+S1 Tie & untie · S2 Balance bottle & walk · S3 Build pyramid of cups · S4 Puzzle · S6 Chasse au trésor
+
+S1 Tie & untie · S2 Balanced walk · S4 Decode morse · S5 Bowling · S6 Fill bucket
+
+S1 Hold the position · S2 Crawl · S3 Guess object in box · S5 Briquet equation · S6 Yoga hold
+
+S1 Bottle flip · S2 Balance bottle & walk · S4 Remember picture · S5 Decode samurai · S6 Chasse au trésor
+
+S1 Small parcours · S3 Decode semaphore · S4 Puzzle · S5 Flip the cup · S6 Fill bucket
+
+S1 Tie & untie · S2 Balanced walk · S3 Build pyramid of cups · S5 Bowling · S6 Yoga hold
+
+S1 Tie & untie · S2 Crawl · S3 Guess object in box · S4 Decode morse · S5 Briquet equation
+
+S2 Balance bottle & walk · S3 Decode semaphore · S4 Remember picture · S5 Decode samurai · S6 Fill bucket
+
+S1 Hold the position · S3 Build pyramid of cups · S4 Puzzle · S5 Flip the cup · S6 Chasse au trésor
+
+S1 Bottle flip · S2 Balanced walk · S3 Guess object in box · S4 Decode morse · S6 Yoga hold
+
+S1 Small parcours · S2 Crawl · S4 Remember picture · S5 Bowling · S6 Fill bucket
+
+S1 Tie & untie · S3 Decode semaphore · S4 Puzzle · S5 Briquet equation · S6 Chasse au trésor
+
+S1 Tie & untie · S2 Balance bottle & walk · S3 Build pyramid of cups · S5 Decode samurai · S6 Yoga hold
+
+S2 Balanced walk · S3 Guess object in box · S4 Decode morse · S5 Flip the cup · S6 Fill bucket
+
+S1 Hold the position · S2 Crawl · S4 Remember picture · S5 Bowling · S6 Chasse au trésor
+
+S1 Bottle flip · S3 Decode semaphore · S4 Puzzle · S5 Decode samurai · S6 Fill bucket
+
+S1 Small parcours · S2 Balance bottle & walk · S3 Build pyramid of cups · S5 Briquet equation · S6 Yoga hold
+
+S1 Tie & untie · S2 Balanced walk · S4 Decode morse · S5 Flip the cup · S6 Chasse au trésor
+
+S1 Tie & untie (simple) · S3 Guess object in box · S4 Remember picture · S5 Bowling · S6 Fill bucket
+
+S2 Crawl · S3 Decode semaphore · S4 Puzzle · S5 Briquet equation · S6 Yoga hold
+
+S1 Hold the position · S2 Balance bottle & walk · S3 Build pyramid of cups · S4 Decode morse · S5 Decode samurai
+
+S1 Bottle flip · S2 Balanced walk · S3 Guess object in box · S5 Flip the cup · S6 Fill bucket
+
+S1 Small parcours · S2 Crawl · S4 Remember picture · S5 Bowling · S6 Yoga hold
+
+S1 Tie & untie (pêcheur) · S3 Decode semaphore · S4 Puzzle · S5 Decode samurai · S6 Chasse au trésor
+
+S1 Tie & untie (simple) · S2 Balance bottle & walk · S3 Build pyramid of cups · S4 Decode morse · S6 Fill bucket
+
+S2 Balanced walk · S3 Guess object in box · S4 Remember picture · S5 Briquet equation · S6 Yoga hold
+
+S1 Hold the position · S2 Crawl · S3 Decode semaphore · S5 Flip the cup · S6 Chasse au trésor
+
+S1 Bottle flip · S3 Build pyramid of cups · S4 Puzzle · S5 Bowling · S6 Fill bucket
+
+S1 Small parcours · S2 Balance bottle & walk · S4 Decode morse · S5 Decode samurai · S6 Yoga hold
+
+S1 Tie & untie (pêcheur) · S2 Balanced walk · S3 Guess object in box · S5 Briquet equation · S6 Chasse au trésor
+
+S1 Tie & untie (simple) · S2 Crawl · S3 Decode semaphore · S4 Remember picture · S6 Fill bucket
+
+S3 Build pyramid of cups · S4 Decode morse · S5 Flip the cup · S5 Decode samurai · S6 Yoga hold
+
+S1 Hold the position · S2 Balance bottle & walk · S3 Guess object in box · S4 Puzzle · S6 Chasse au trésor
+
+S1 Bottle flip · S2 Crawl · S4 Remember picture · S5 Bowling · S6 Fill bucket
+
+S1 Small parcours · S3 Decode semaphore · S4 Decode morse · S5 Briquet equation · S6 Yoga hold
